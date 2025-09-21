@@ -26,7 +26,7 @@ This project allows users to upload stock market CSV data, select tickers, and v
 
 ## 🚀 Complete Process (From Start to Finish)
 1. **Create Project Folder**  
-   Example: `D:\stock_market_dashboard`  
+   Example: `D:\Stock_Marketing`  
 
 2. **Create & Activate Virtual Environment**  
    - Windows:  
@@ -62,7 +62,7 @@ This project allows users to upload stock market CSV data, select tickers, and v
 6. **Initialize Git & Push to GitHub**  
    ```bash
    git init
-   git remote add origin https://github.com/YOUR-USERNAME/stock_market_dashboard.git
+   git remote add origin https://github.com/Zakir-ai/Stock_Marketing.git
    git add .
    git commit -m "Initial commit"
    git push -u origin main
@@ -91,11 +91,11 @@ This project allows users to upload stock market CSV data, select tickers, and v
 ## 💻 Run Locally
 1. Clone repo:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/stock_market_dashboard.git
+   git clone https://github.com/Zakir-ai/Stock_Marketing.git
    ```
 2. Navigate:  
    ```bash
-   cd stock_market_dashboard
+   cd Stock_Marketing.git
    ```
 3. Create virtual environment & activate  
 4. Install dependencies:  
@@ -116,7 +116,3 @@ This project allows users to upload stock market CSV data, select tickers, and v
 - Live URL: [https://stock-marketing.onrender.com](https://stock-marketing.onrender.com)  
 
 ---
-
-## 📝 Author
-👤 Mohammed Afrid  
-📌 GitHub: [afridmd12](https://github.com/afridmd12)
